@@ -1,0 +1,1 @@
+tests_data/valid_mixed.txt -x tests_out/out_err.txt

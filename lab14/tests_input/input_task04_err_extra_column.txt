@@ -1,0 +1,3 @@
+2 50
+file1.txt 10 10 EXTRA_ARG
+file2.txt 20 20

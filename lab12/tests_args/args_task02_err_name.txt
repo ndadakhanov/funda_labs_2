@@ -1,0 +1,1 @@
+tests_data/err_name_digits.txt -a tests_out/out_err.txt

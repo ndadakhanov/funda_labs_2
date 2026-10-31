@@ -1,0 +1,4 @@
+3 100
+notes.txt 10 10
+music.mp3 20 30
+photo.raw 30 50

@@ -1,0 +1,1 @@
+tests_data/err_salary_nan.txt -a tests_out/out_err.txt
